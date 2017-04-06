@@ -4,15 +4,15 @@ Minigame created with Lua and Defold
 
 ##The Idea
 
-The title -obviously- refers to the guys you reign over within the game. You are a ancient god and whatch over a civilisation which shall homage you! You decide whether they obey you because of fear or love, the only important thing is that they only follow you. To achieve that you get some abilities and useful skills on your side to gather their fear or trust. Prudenter Decernere!
+The title -obviously- refers to the guys you reign over within the game. You are an ancient god and watch over a civilisation which shall homage you! You decide whether they obey you out of fear or love, the only important thing is that there is no god but you. In order to achieve that you get abilities and skills to either make them love you with passion or let them shiver in fear. Prudenter Decernere!
 
 ##The Concept
 
-The game should be a idle/ slight strategy game which you can play both full time with focus or while you watch some series...
-The current idle games are only with little interaction and planning as you click on a specific point multiple times a minute. The strategy games are mostly very complex and sometimes hard to get in a few rounds. We will try to mix these genres with -hopefully- the best features from both.
+The game should be an idle game with slightly strategic elements which you can play either actively with full focus or passively while you watch some Netflix...
+The current idle games only offer little interaction and planning ahead as you only repeat the same action to infinity. Current strategy games are mostly very complex and hard to get for beginners. We will try to mix these genres using -hopefully- the best features from both.
 
 ##The Guys
 
-We are 3 guys from :de: which are currently in the job training for computer scientist (:beginner:) and trying to get some experience in game development. So don´t mind us...
+We are 3 guys from :de: which are currently trainees in the field of software developement (:beginner:) and we are trying to get some experience in game development. So don´t mind us...
 
 ~
