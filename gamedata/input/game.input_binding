@@ -1,0 +1,24 @@
+key_trigger {
+  input: KEY_ESC
+  action: "ESC"
+}
+key_trigger {
+  input: KEY_B
+  action: "B"
+}
+mouse_trigger {
+  input: MOUSE_BUTTON_RIGHT
+  action: ""
+}
+mouse_trigger {
+  input: MOUSE_BUTTON_LEFT
+  action: "LEFT_CLICK"
+}
+mouse_trigger {
+  input: MOUSE_BUTTON_1
+  action: "touch"
+}
+text_trigger {
+  input: TEXT
+  action: "text"
+}

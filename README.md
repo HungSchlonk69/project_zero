@@ -1,18 +1,29 @@
-#"Filthy Peasants"
+# "Filthy Peasants" by Lazy Proggers
 
 Minigame created with Lua and Defold
 
-##The Idea
+Current Status: Planning | *Building* | Testing | Finished
 
-The title -obviously- refers to the guys you reign over within the game. You are a ancient god and whatch over a civilisation which shall homage you! You decide whether they obey you because of fear or love, the only important thing is that they only follow you. To achieve that you get some abilities and useful skills on your side to gather their fear or trust. Prudenter Decernere!
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-##The Concept
+## The idea
 
-The game should be a idle/ slight strategy game which you can play both full time with focus or while you watch some series...
-The current idle games are only with little interaction and planning as you click on a specific point multiple times a minute. The strategy games are mostly very complex and sometimes hard to get in a few rounds. We will try to mix these genres with -hopefully- the best features from both.
+The title -obviously- refers to the guys you reign over within the game. It absolutly *not* refers *not* to the console peasants whom can´t get in the indulgence of this game or 60 fps.
+You are an ancient god and watch over a civilisation which shall homage you! You decide whether they obey you because of fear or love, the only important thing is that they only follow you. In order to achieve that you get some abilities and useful skills to either make them love you with passion or let them shiver in fear. So:
 
-##The Guys
+Prudenter Decernere!
 
-We are 3 guys from :de: which are currently in the job training for computer scientist (:beginner:) and trying to get some experience in game development. So don´t mind us...
+## The concept
 
-~
+The game should be a 2D idle/ slight strategy game which you can play both full time with focus or while you watch some series...
+The current idle games only offer little interaction and planning ahead as only repeat the same action to infinity. Current strategy games are mostly very complex and sometimes hard to get for beginners. We will try to mix these genres using -hopefully- the best features from both. Adding many random events and custom reactions to each of the players actions will keep the exitement at an even level. You can basically execute some action two times and get different results because of slightly different circumstances.
+
+## The team
+
+We are a [small team](https://github.com/LazyProggers) from germany :de:, mostly trainees in the field of software development (:beginner:) and we are trying to get some experience in game development. The name "Lazy Proggers" should be pretty self explaining, we all are somehow lazy which forces us to write simple and clean code. Next to the developers ([UltraLurd](https://github.com/UltraLurd), [xFuture](https://github.com/xFuture603) and [creyD](https://github.com/creyD)) we currently got one designer ([clomee](https://github.com/clomee)) and another one pending. Our goal is to build the game mentioned above with the current team and improve as programmers individually. As we are all kind of lazy and got work to do, there is no such thing as a deadline... We will develop this at our own individual pace.
+
+Bye
+
+![Our logo](https://github.com/creyD/project_zero/blob/master/docs/company_logo/Schnabeltier.jpg)
+
+**This file will be updated during the development.**
